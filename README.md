@@ -10,8 +10,7 @@
 const aware = {
     focus: ["Desktop Apps", "Automation", "Developer Tools"],
     stack: ["Python", "TypeScript", "Qt/PySide6", "React"],
-    currently: "Building websites",
-    mass_renaming_cvs: true  // it's cooler than it sounds
+    currently: "Building websites"
 };
 ```
 
