@@ -51,7 +51,7 @@ const aware = {
 
 *"Make it work, make it right, make it fast."*
 
-[![Website](https://img.shields.io/badge/awarefolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=22D3EE)](https://awarefolio.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTMuOSAxMmMwLTEuNzEgMS4zOS0zLjEgMy4xLTMuMWg0VjdIN2MtMi43NiAwLTUgMi4yNC01IDVzMi4yNCA1IDUgNWg0di0xLjlIN2MtMS43MSAwLTMuMS0xLjM5LTMuMS0zLjF6TTggMTNoOHYtMkg4djJ6bTktNmgtNHYxLjloNGMxLjcxIDAgMy4xIDEuMzkgMy4xIDMuMXMtMS4zOSAzLjEtMy4xIDMuMWgtNFYxN2g0YzIuNzYgMCA1LTIuMjQgNS01cy0yLjI0LTUtNS01eiIvPjwvc3ZnPg%3D%3D)](https://awarefolio.vercel.app)
 [![Email](https://img.shields.io/badge/aware151508%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aware151508@gmail.com)
 [![Telegram](https://img.shields.io/badge/awarereal-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/awarereal)
 [![Links](https://img.shields.io/badge/solo.to-000000?style=flat-square&logo=linktree&logoColor=white)](https://solo.to/awarereal)
